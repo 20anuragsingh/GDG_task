@@ -97,10 +97,6 @@
     scrollbar-width: none;
   }
 
-  .nav-links::-webkit-scrollbar {
-    display: none;
-  }
-
   .nav-links a {
     font-size: 12px;
   }
@@ -142,8 +138,6 @@
 }
 
 .logoImage {
- 
-  height: 40px;   /* Set your preferred height (commonly between 40px and 60px) */
-  width: auto;    /* Keeps the aspect ratio perfectly intact */
-
+  height: 40px;
+  width: auto;
 }
