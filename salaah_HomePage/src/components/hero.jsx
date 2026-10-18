@@ -1,4 +1,3 @@
-import './hero.css'
 import handshakeImage from '../assets/handshake-hero.png'
 import { RouteLink } from './routing.jsx'
 

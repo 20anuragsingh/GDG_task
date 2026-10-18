@@ -1,5 +1,4 @@
 import { RouteLink } from './routing.jsx'
-import './pages.css'
 
 const pageData = {
   '/about': {

@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import './navbar.css'
 import myImage from '../assets/image.png';
 import { RouteLink } from './routing.jsx'
 

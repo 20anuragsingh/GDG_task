@@ -1,5 +1,4 @@
 import { RouteLink } from './routing.jsx'
-import './homeSections.css'
 
 const previews = [
   { id: 'departments', number: '01', title: 'Departments', text: 'Find a team, share your skills, and help the community grow.', to: '/departments' },
